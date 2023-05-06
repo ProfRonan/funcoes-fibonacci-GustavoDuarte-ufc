@@ -18,4 +18,3 @@ def fibonacci(n):
             e = b - d
             c += 1
         return(b)
-fibonacci(2)
